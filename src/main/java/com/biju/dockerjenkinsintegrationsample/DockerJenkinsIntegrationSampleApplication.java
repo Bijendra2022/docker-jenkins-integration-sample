@@ -9,7 +9,7 @@ public class DockerJenkinsIntegrationSampleApplication {
 	
 	public static void main(String[] args) {
 		SpringApplication.run(DockerJenkinsIntegrationSampleApplication.class, args);
-		System.out.println("Hello WOrld");
+		System.out.println("Hello World");
 	}
 
 }
